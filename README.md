@@ -1,16 +1,18 @@
-## Hi there 👋
+<### Hey there 👋
 
-<!--
-**sakshamkh4tri/sakshamkh4tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Saksham Khatri**, a 2nd-year BTech student passionate about building strong fundamentals in programming and problem-solving.
 
-Here are some ideas to get you started:
+💻 **Currently Learning:**
+- C++ and Data Structures & Algorithms
+- Following Striver's A2Z DSA Sheet on [TakeUForward](https://takeuforward.org/profile/khatri_saksham)
+- Solving problems daily and preparing for future placements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Mission:**  
+Progress > Perfection — growing one line of code at a time.
+
+🔗 **Connect with me:**
+- 📘 [LinkedIn](https://www.linkedin.com/in/saksham-khatri)
+- 🧠 [LeetCode](https://leetcode.com/saksham_khatri)
+- 📚 [TakeUForward](https://takeuforward.org/profile/khatri_saksham)
+
+📌 Stay tuned — every repo is a chapter in my learning journey.--
